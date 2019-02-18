@@ -2,6 +2,7 @@
   "name": "makers-bnb",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "main": "connection.js",
   "dependencies": {
     "express": "^4.16.4",
@@ -9,6 +10,21 @@
     "pq": "0.0.3"
   },
   "devDependencies": {},
+=======
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.14.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+>>>>>>> 7d08c43fc71e87e130c5bd7b50f11323fa1fb51d
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +32,10 @@
     "type": "git",
     "url": "git+https://github.com/ktcornish/makers-bnb.git"
   },
+<<<<<<< HEAD
   "keywords": [],
+=======
+>>>>>>> 7d08c43fc71e87e130c5bd7b50f11323fa1fb51d
   "author": "",
   "license": "ISC",
   "bugs": {
